@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VladimirAntrop <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m interested in ...
+- :telescope: I’m interested in trips
 
 - :seedling: Exploring Swift.
 
